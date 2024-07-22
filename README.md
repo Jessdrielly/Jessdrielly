@@ -2,7 +2,7 @@ Com 6 anos de experiência na área de Educação, atuando no ensino de Física 
 
 Durante minha jornada acadêmica, mergulhei nos desafios da Física Quântica Experimental e explorei suas aplicações no ensino regular. Os projetos que desenvolvi nesse contexto foram apresentados em congressos, onde pude compartilhar minha paixão pela ciência e pela educação.
 
-Nos últimos dois anos, abracei a oportunidade de integrar o crescimento da tecnologia na educação, empregando plataformas digitais como Geekie One. Nessa jornada, explorei as fronteiras entre Educação e Inteligência Artificial, buscando sempre inovar e melhorar a experiência de aprendizado dos alunos.
+Nos últimos dois anos, abracei a oportunidade de integrar o crescimento da tecnologia na educação, empregando plataformas digitais. Nessa jornada, explorei as fronteiras entre Educação e Inteligência Artificial, buscando sempre inovar e melhorar a experiência de aprendizado dos alunos.
 
 Agora, estou embarcando em uma empolgante transição de carreira para a área de Ciência de Dados. Estou cursando uma pós-graduação em Ciência de Dados e Big Data, aprimorando minhas habilidades em linguagens como Python e SQL.
 
