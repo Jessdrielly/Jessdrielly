@@ -1,4 +1,4 @@
-Com 6 anos de experiência na área de Educação, atuando no ensino de Física e Matemática.
+Com experiência na área de Educação, atuando no ensino de Física e Matemática.
 
 Durante minha jornada acadêmica, mergulhei nos desafios da Física Quântica Experimental e explorei suas aplicações no ensino regular. Os projetos que desenvolvi nesse contexto foram apresentados em congressos, onde pude compartilhar minha paixão pela ciência e pela educação.
 
